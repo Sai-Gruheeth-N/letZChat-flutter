@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482612426460",
+    "project_id": "letzchat-10a67",
+    "storage_bucket": "letzchat-10a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482612426460:android:962fc8c86b1d757a6da619",
+        "android_client_info": {
+          "package_name": "com.gruheeth.letzchat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482612426460-e04vevi777am3t61hch7hnr2djksl2cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVa3Cbh5rw5zrF-d7ZzLDrIGHu72dun5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482612426460-e04vevi777am3t61hch7hnr2djksl2cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
